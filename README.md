@@ -63,7 +63,7 @@ npm start
 
 5. **Access the application at http://localhost:3000.**
 
-##🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributions! Here’s how you can help:
 
@@ -88,7 +88,7 @@ Open a Pull Request to the main repository.
 
 Ensure your code follows the existing coding standards and pass all tests.
 
-##🛤️ Roadmap
+## 🛤️ Roadmap
 
 Planned Features & Improvements:
 
@@ -104,7 +104,7 @@ Integration with additional decentralized storage solutions.
 
 Contributions and feedback are welcome to help shape this roadmap!
 
-##🧪 Testing
+## 🧪 Testing
 
 **To run tests for smart contracts:**
 ```bash
@@ -116,6 +116,6 @@ truffle test
 npm test
 ```
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
